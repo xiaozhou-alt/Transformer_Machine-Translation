@@ -8,15 +8,7 @@
 
 可以从这里下载：[英中翻译数据集](https://challenger.ai/datasets/translation)
 
-![image](https://github.com/foamliu/Transformer/raw/master/images/dataset.png)
-
-其中data文件夹格式如下：
-
-![image-20250407143513490](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250407143513490.png)
-
-![image-20250407143639445](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250407143639445.png)
-
-![image-20250407143713331](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250407143713331.png)
+![dataset](https://github.com/user-attachments/assets/406a2f4d-d044-4df8-86fe-cc50ecf2288a)
 
 ## 用法
 
@@ -54,6 +46,7 @@ $ tensorboard --logdir path_to_current_dir/logs
 
 以下是翻译的一些实例展示
 
-![image-20250407144950725](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20250407144950725.png)
+![Snipaste_2025-04-07_14-49-46](https://github.com/user-attachments/assets/68a399f8-102c-43ab-8976-d2deea137cbb)
+
 
 
